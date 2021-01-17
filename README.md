@@ -1,5 +1,7 @@
 # BigQuery-Google_Analytics
 
+The PDF report, datasets, and ipynb file can be retrieved here: https://drive.google.com/drive/folders/1XkWsdkP2Sw9cb7QJIQcGnSvtuDXzU0Qh?usp=sharing
+
 ### Data Description:
 The ecommerce website data includes traffic source, content, transactional data: https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data
 
